@@ -1,2 +1,1 @@
-# NHANES
-Data Mining
+Download datasets used in the python file from NHANES 2017–2020 study,see https: //wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020. Merge them into a single data frame. You can also use the one other than the one used in the program. Ensure to combine it with all other dataframes.
